@@ -14,4 +14,4 @@ node_modules/
 .vscode/
 
 .DS_Store
-*.idea
+.idea/
